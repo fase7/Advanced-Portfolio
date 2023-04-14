@@ -744,6 +744,9 @@ footer{
     text-align: center;
     position: relative;
 }
+footer .container {
+    margin:0px;
+}
 footer .text {
     margin-top: 20px;
     margin-bottom: 20px;
