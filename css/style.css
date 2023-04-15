@@ -747,6 +747,7 @@ footer{
 @media(max-width:767px){
     footer .container {
     margin:0px;
+        padding:0px;
 }
 }
 footer .text {
