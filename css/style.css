@@ -744,16 +744,10 @@ footer{
     text-align: center;
     position: relative;
 }
-@media(max-width:767px){
-    footer .container {
-    margin:0px;
-        padding:0px;
-}
-}
 footer .text {
     margin-top: 20px;
     margin-bottom: 20px;
-    width: 100%;
+    width: 80%;
     margin-left: auto;
     margin-right: auto;
     font-size: 30px;
