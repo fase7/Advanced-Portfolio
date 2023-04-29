@@ -753,6 +753,9 @@ footer .text {
     font-size: 30px;
     color: white;
 }
+footer .container {
+    margin :0 px
+}
 
 footer .container a i {
     color:white;
