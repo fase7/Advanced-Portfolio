@@ -834,4 +834,51 @@ footer .container a i:hover{
     }
     
 }
+/* download resume */
+.resume .container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 300px;
+}
+.resume .container button {
+  height: 70px;
+  width: 220px;
+  border: none;
+  border-radius: 6px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -ms-border-radius: 6px;
+  -o-border-radius: 6px;
+  transition: 0.4s;
+  -webkit-transition: 0.4s;
+  -moz-transition: 0.4s;
+  -ms-transition: 0.4s;
+  -o-transition: 0.4s;
+  padding: 10px;
+}
+.resume .container button a {
+  text-decoration: none;
+  color: #ff2e63;
+  font-size: 16px;
+}
+.resume .container button i {
+  transition: 0.4s;
+  -webkit-transition: 0.4s;
+  -moz-transition: 0.4s;
+  -ms-transition: 0.4s;
+  -o-transition: 0.4s;
+  margin-right: 10px;
+}
+.resume .container button:hover i {
+  transform: scale(150%);
+  -webkit-transform: scale(150%);
+  -moz-transform: scale(150%);
+  -ms-transform: scale(150%);
+  -o-transform: scale(150%);
+}
+.resume .container button a:hover {
+  color: #0077b5;
+}
+/* download resume */
 
